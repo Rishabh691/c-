@@ -11,7 +11,7 @@ int main()
         int j=1;
         while(j<=i)
         {
-            cout<<"*";
+            cout<<"* ";
             j=j+1;
         }
         cout<<endl;
